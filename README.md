@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/basakkandemir/basakkandemir/blob/707500d9503e86f7d5187da11377cd301ebaeb51/work-computer.gif" width="300" 
         height="300"/>
        </div>
-<h3 align="center">A passionate Jr. Java Developer from Turkey</h3>
+<h3 align="center">A passionate Jr. Full Stack Developer from Turkey</h3>
 
 - 📫 How to reach me **basakkndmr@gmail.com**
 
