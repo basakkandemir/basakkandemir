@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact **I think I am funny**
 
-- 🌱 I’m currently learning Spring Framework and JSF
+- 🌱 I’m currently learning Asp.Net Core and Javascript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
